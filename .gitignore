@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+*.user
+*.suo
+HMS.API/appsettings.json
+HMS.API/appsettings.Development.json
+.vs/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
