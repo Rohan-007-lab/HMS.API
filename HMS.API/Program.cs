@@ -115,7 +115,7 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// --------- Middleware pipeline ---------
+// -------- Middleware pipeline --------
 
 
     app.UseSwagger();

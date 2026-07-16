@@ -7,6 +7,7 @@ using MediatR;
 namespace HMS.API.Controllers;
 
 [ApiController]
+
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
 {
