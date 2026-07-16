@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
 using HMS.Application.Features.Doctors.Commands;
 using HMS.Application.Features.Doctors.Queries;
 using MediatR;

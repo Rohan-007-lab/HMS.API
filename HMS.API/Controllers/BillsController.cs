@@ -5,7 +5,9 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 
+
 namespace HMS.API.Controllers;
+
 
 [ApiController]
 [Route("api/[controller]")]

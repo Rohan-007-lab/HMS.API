@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
 using HMS.Application.Features.Auth.Commands;
 using MediatR;
 
